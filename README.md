@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmijakovic222
-- 👀 I’m interested in we development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javasript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
